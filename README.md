@@ -9,7 +9,7 @@ Full Stack Developer, 7 years of commercial experience. Kyiv region, Ukraine.
 ### AI-native development
 
 Claude Code is my daily working environment — as a built process, not autocomplete.
-Most repositories here carry that setup, so you can see how I work:
+My five most recent projects here carry that setup, so you can see how I work:
 
 - **Rules** — project conventions live in `.claude/rules/*.md`, scoped by `paths:` so they
   load only for the files they govern. `CLAUDE.md` carries orientation, not a wall of rules.
@@ -30,4 +30,4 @@ They're a window into how I structure code and tooling rather than a portfolio o
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/oleksandr-savchenko/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwYVWj5mCQlS3bvMJSiXIjg%3D%3D) · satturrn@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/oleksandr-savchenko) · satturrn@gmail.com
